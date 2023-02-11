@@ -14,12 +14,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Grid
 
 
 
 
 ## Author
 - Frontend Mentor - [@Agnik7](https://www.frontendmentor.io/profile/Agnik7)
+
+## Credits
+Shoutout to [@MelvinAguilar](https://www.frontendmentor.io/profile/MelvinAguilar) and [@Hassiai](https://www.frontendmentor.io/profile/Hassiai)
+for providing me with valuabe feedback to help me improve.
 
 
 
