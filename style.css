@@ -19,7 +19,6 @@ body{
     align-items: center;
     font-family: 'Outfit', sans-serif;
     text-align: center;
-    box-shadow: 0px 5px 5px 5px hsl(220, 15%, 55%);
 }
 img{
     max-width: 100%;
